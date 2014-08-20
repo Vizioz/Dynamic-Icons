@@ -1,0 +1,5 @@
+obj
+/bin
+/*.suo
+/StyleCop.Cache
+/packages
